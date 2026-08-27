@@ -1,0 +1,21 @@
+﻿Model,Hospital,Accuracy,Precision,Recall,F1 Score
+Logistic Regression,Cleveland,0.787,0.808,0.724,0.764
+Logistic Regression,Hungary,0.823,0.741,0.783,0.761
+Logistic Regression,Switzerland,0.423,0.978,0.391,0.559
+Logistic Regression,VA Long Beach,0.695,0.824,0.752,0.786
+Random Forest,Cleveland,0.787,0.786,0.759,0.772
+Random Forest,Hungary,0.819,0.762,0.726,0.744
+Random Forest,Switzerland,0.642,0.961,0.643,0.771
+Random Forest,VA Long Beach,0.710,0.832,0.765,0.797
+SVM,Cleveland,0.787,0.808,0.724,0.764
+SVM,Hungary,0.819,0.752,0.745,0.749
+SVM,Switzerland,0.659,0.974,0.652,0.781
+SVM,VA Long Beach,0.710,0.827,0.772,0.799
+KNN,Cleveland,0.787,0.808,0.724,0.764
+KNN,Hungary,0.788,0.729,0.660,0.693
+KNN,Switzerland,0.593,0.971,0.583,0.728
+KNN,VA Long Beach,0.685,0.831,0.725,0.774
+XGBoost,Cleveland,0.754,0.733,0.759,0.746
+XGBoost,Hungary,0.768,0.646,0.792,0.712
+XGBoost,Switzerland,0.585,0.957,0.583,0.724
+XGBoost,VA Long Beach,0.735,0.853,0.779,0.814
